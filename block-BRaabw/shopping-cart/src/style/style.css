@@ -285,6 +285,10 @@ select {
   right: 2rem;
 }
 
+.cart-logo:hover {
+  background-color: gray;
+}
+
 .cart-count {
   width: 20px;
   height: 20px;
